@@ -1,0 +1,7 @@
+assignment: build a file archiver.
+functions: 
+	append a file to archive
+	quick append name files
+	extract named files
+	print
+	append all files in directory

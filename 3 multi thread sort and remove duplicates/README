@@ -1,0 +1,4 @@
+assignment: from an input stream, sort the elements and remove duplicates; output the result.
+
+uses a thread for sorting and a thread for removing duplicates & outputting.
+pipe is used to send data between the threads.

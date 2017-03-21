@@ -1,0 +1,6 @@
+assignment: compute perfect numbers.
+
+this project uses 3 main threads.
+one for computing perfect numbers
+one for managing (updating array of perfects, handling compute processes, shared memory and signals)
+one for reporting info (perfect numbers, total numbers tested, etc)
